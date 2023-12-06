@@ -16,7 +16,7 @@
     <body>
         <div class="resume-content">
             <div class="header">
-                <div class="item"><a href="">Home</a></div>
+                <div class="item"><a href="{% url 'index' %}">Home</a></div>
                 <button type="button" class="download" id="downloadResume" onclick="downloadResumeAsPDF('resume', 'my_resume')">Download Resume</button>
             </div>
             {% if latest_applicant %}
