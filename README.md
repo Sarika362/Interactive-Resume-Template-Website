@@ -51,6 +51,7 @@ It’s simple, interactive, and makes professional resume creation easier than e
   - JavaScript
 - **Backend**:  
   - Django (for user authentication and database functionality)
+  - SQLite (for database storage)
 
 ---
 
@@ -58,7 +59,7 @@ It’s simple, interactive, and makes professional resume creation easier than e
 
 ```
 Web Hoodlums
-└── WebHoodlums
+├── WebHoodlums
 │   ├── migrations
 │   │   └── __pycache__ 📦
 │   ├── static
@@ -116,7 +117,7 @@ Web Hoodlums
 │   │   ├── wsgi.py 🌐
 │   ├── db.sqlite3 🗃️
 │   └── manage.py 🛠️
-├── README.md 📜
+└── README.md 📜
     
 ```
 
