@@ -116,10 +116,11 @@ Web Hoodlums
 │   │   ├── settings.py ⚙️
 │   │   ├── urls.py 🌐
 │   │   ├── wsgi.py 🌐
-│   ├── db.sqlite3 🗃️
-│   └── manage.py 🛠️
-└── README.md 📜
-    
+├── db.sqlite3 🗃️
+├── manage.py 🛠️
+├── Procfile
+├── README.md 📜
+├── requirements.txt
 ```
 
 ---
