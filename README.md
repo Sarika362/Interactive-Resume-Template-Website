@@ -129,7 +129,7 @@ Web Hoodlums
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Interactive-Resume-Template.git
+git clone https://github.com/Sarika362/Web-Hoodlums.git
 cd Interactive-Resume-Template
 ```
 
