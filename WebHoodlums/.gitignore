@@ -1,0 +1,23 @@
+.vercel
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Other files
+*.DS_Store
